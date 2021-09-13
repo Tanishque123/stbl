@@ -85,11 +85,24 @@ p {
     font-family: fantasy;
     font-size: 20px;
 }
+
 .links:hover {
     background-color: fuchsia;
 }
+
 #name {
     font-size: 30px;
     line-height: 1.2;
     font-family: 'Dancing Script', cursive;
+}
+
+a {
+    text-decoration: none;
+
+
+}
+
+.artcle:hover {
+    color: darkviolet;
+
 }
